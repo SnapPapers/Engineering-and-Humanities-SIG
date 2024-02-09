@@ -1,19 +1,21 @@
 # SnapPapers
 
-## [Stories On Board Link](https://landofooo.storiesonboard.com/storymap/snappapers)
-
 ## Problem Definition
 
-**Engineering & Humanities SIG members** are facing a **huge learning curve** using the SIG website due to the **lack of collaboration** promotion and the **difficult access** to their papers.
+**Engineering & Humanities SIG members** face a **large learning curve** when using the SIG website due to the **confusing layouts** and **inadequate funtionalities**. Further, the website does not promote **collaboration** and has a **complicated process to access** papers.
 
-We have observed that there are **not too many SIG members** at the website and the actual website capabilities are confusing.
+It has been observed that there **aren't many SIG members** actively using the website.
 
-**If this problem continues, we are not expecting a notable growing rate of collaborations** with SIG members from the public users. So, **the users will be unable to find the related work or profiles** of the Engineering & Humanities SIG members.
+**Due to the severe lack of visits to the website, it is expected that there will be no notable growth of collaborations** between researchers. As the users are unable to easily identify **related work or profiles** of the Engineering & Humanities SIG members, promoting collaboration and discoverability is inconvenient.
 
-Therefore, we need to take a **dynamic approach** by **promoting the integrity** of the SIG council **increasing the research papers' accessibility** and **promoting collaboration** with like-minded individuals based on interests and **geographical location**.
+Therefore a dynamic and fluid website that observes minimalistic design is proposed. This will assist researchers to look for and collaborate with other like-minded individuals easily while making the website more accessible to SIG members and the public alike. Further, to enhance the experience, visualizations of researchers' interests, manuscripts, and geographical-based collaboration recommendation systems will be implemented. The websites will be streamlined to reduce the learning curve.
 
-To test our hypothesis, we are **redesigning the SIG website** focusing on **integration, innovation, inclusion and respect for the SIG members**.
-
+The key factors that will be addressed are;
+- Ease of use and accessibility
+- Minimalistic design
+- Dynamic data population
+- Promoting networking and collaboration
+- Simple but informative visualizations
 
 ### Team Members
 * Ramsha Naeem
@@ -22,4 +24,5 @@ To test our hypothesis, we are **redesigning the SIG website** focusing on **int
 * Sithija Wijesinghe
 
 
+### [User story board link](https://landofooo.storiesonboard.com/storymap/snappapers)
 
