@@ -1,5 +1,7 @@
 # SnapPapers
 
+## [Stories On Board Link](https://landofooo.storiesonboard.com/storymap/snappapers)
+
 ## Problem Definition
 
 **Engineering & Humanities SIG members** are facing a **huge learning curve** using the SIG website due to the **lack of collaboration** promotion and the **difficult access** to their papers.
