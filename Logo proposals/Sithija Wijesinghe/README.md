@@ -20,4 +20,4 @@ The logo is presented in multiple file formats here.
 - AI
 
 Explanation on the design of the logo:
-![Logo design choices](./Logo%20design%20choices)
+![Logo design choices](./Logo%20design%20choices.pdf)
